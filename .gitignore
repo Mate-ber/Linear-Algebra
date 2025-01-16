@@ -27,12 +27,6 @@ env/
 Icon?
 ._*
 
-# Logs and databases
-*.log
-*.sqlite3
-*.db
-*.sql
-
 # Test result files
 *.out
 *.test
